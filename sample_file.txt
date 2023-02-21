@@ -1,1 +1,1 @@
-This is a sample text file that i'll be using to learn git.
+This is a sample text file that i'll be using to learn git. I'm so excited to learn git. 
